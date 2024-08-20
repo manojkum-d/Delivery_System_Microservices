@@ -1,4 +1,24 @@
-> ### Example Node (Express + Mongoose) codebase containing microservices with their respective databases.
+# Order Management Microservice
+
+## Overview
+
+This microservice handles the management of orders, including creation, updating, cancellation, and retrieval. It integrates with delivery management, message queues, and logging systems to provide a comprehensive solution for order processing.
+
+![image](https://github.com/user-attachments/assets/c8d73d37-99fe-4d08-b949-b1efb804fcad)
+![image](https://github.com/user-attachments/assets/5bc1458d-4ed8-44a7-a38f-74e2552a6c6b)
+![image](https://github.com/user-attachments/assets/2e188dad-86ed-4052-be08-880189994868)
+
+
+
+## Features
+
+- **Order Creation**: Create new orders.
+- **Order Updating**: Modify existing orders.
+- **Order Cancellation**: Cancel orders.
+- **Order Retrieval**: Fetch details of orders.
+- **Message Queue Integration**: Utilizes RabbitMQ for messaging between services.
+- **Logging**: Comprehensive logs for order actions and delivery statuses.
+
 
 # Getting started
 
@@ -26,3 +46,10 @@ To get the Node server running locally:
 - `repository/` - This folder contains the repository pattern.
 - `rabbit/` - This folder contains the generic messaging sender.
 
+
+ 
+
+
+
+
+  
