@@ -1,8 +1,8 @@
 {
-  "name": "insis-microservices",
+  "name": "manoj_microservices",
   "version": "1.0.0",
-  "description": "nodejs insis",
-  "author": "Carla Sampaio carlamsampaio01@gmail.com",
+  "description": "nodejs mamoj",
+  "author": "Manoj Kumar d manojkumarsjr123@gmail.com",
   "license": "MIT",
   "main": "app.js",
   "scripts": {
